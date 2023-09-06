@@ -3,6 +3,7 @@
 **c) 2023 [Cleuton Sampaio](https://linkedin.com/in/cleutonsampaio)**
 
 Você sabe criar testes unitários efetivos? Existem técnicas para criar testes unitários. Veja o [PDF anexado](./testes_unitarios.pdf) ao projeto.
+Ai, assista ao [**vídeo deste tutorial**](https://youtu.be/NQurYjzdXmg?si=c6uhaYXbJiDlF9iT), deixe seu "me gusta" e se inscreva [**no meu canal**](http://youtube.com/@CleutonSampaio). Confira também [**meus cursos na Udemy**](http://udemy.com/user/cleutonsampaio).
 
 ## Um estudo de caso
 
